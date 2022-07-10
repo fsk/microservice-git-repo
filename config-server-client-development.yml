@@ -1,0 +1,3 @@
+msg: Hello World. This is Config Client Server **Development** File.
+server:
+  port: 9090
