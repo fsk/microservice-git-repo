@@ -1,6 +1,6 @@
 limits-service:
   minimum: 1
   maximum: 11111
-msg: "This is **QA(Test)** file for the limits service"
+msg: "This is **QA(Test)** file for the limits service. This profile starts on 8585"
 server:
   port: 8585

@@ -1,4 +1,6 @@
 limits-service:
   minimum: 7
   maximum: 77777
-msg: "This is **Development** file for the limits-service"
+msg: "This is **Development** file for the limits-service. This profile starts on 6868"
+server:
+  port: 6868
