@@ -1,0 +1,4 @@
+limits-service:
+  minimum: 9
+  maximum: 99999
+msg: "This is **Productin** file for the limits service"

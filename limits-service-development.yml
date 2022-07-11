@@ -1,0 +1,4 @@
+limits-service:
+  minimum: 7
+  maximum: 77777
+msg: "This is **Development** file for the limits-service"
