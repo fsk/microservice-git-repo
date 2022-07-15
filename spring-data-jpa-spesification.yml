@@ -1,0 +1,16 @@
+server:
+  port: 4545
+msg: "This file is for Spring Data JPA Spesification Repo. Development file."
+spring:
+  datasource:
+    username: postgres
+    password: root
+    url: jdbc:postgresql://localhost:5432/specification
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
